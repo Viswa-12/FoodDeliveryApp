@@ -412,81 +412,53 @@ http://localhost:4000/images/1752478436210pizza.png
 
 ## 🏠 Home Page
 
-> Add screenshot here
 
-```text
-screenshots/home.png
-```
+<img width="1913" height="982" alt="Home Page" src="https://github.com/user-attachments/assets/23dfff24-25ea-47c0-945a-2fe563684be2" />
 
 ---
 
 ## 🍕 Food Menu
 
-> Add screenshot here
 
-```text
-screenshots/menu.png
-```
+<img width="1902" height="977" alt="image" src="https://github.com/user-attachments/assets/e1cea116-f9ee-4384-a350-73d50fe1bcc7" />
+
 
 ---
 
 ## 🛒 Cart Page
 
-> Add screenshot here
 
-```text
-screenshots/cart.png
-```
+<img width="1917" height="972" alt="image" src="https://github.com/user-attachments/assets/7e4e89b1-2420-468e-8438-a4fea863ce26" />
+
 
 ---
 
 ## 📦 Place Order
 
-> Add screenshot here
 
-```text
-screenshots/place-order.png
-```
+<img width="1917" height="970" alt="image" src="https://github.com/user-attachments/assets/ecb496ef-b81f-488d-92ce-63ffb8f3439d" />
+
 
 ---
 
-## 📜 My Orders
 
-> Add screenshot here
-
-```text
-screenshots/my-orders.png
-```
-
----
 
 ## 👨‍💼 Admin Dashboard
 
-> Add screenshot here
-
-```text
-screenshots/admin-dashboard.png
-```
+<img width="1917" height="700" alt="image" src="https://github.com/user-attachments/assets/3e789a0a-b97a-4744-8ebc-063e9dc1efb3" />
 
 ---
 
 ## ➕ Add Food
 
-> Add screenshot here
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/c92c24ef-eac0-4868-a7f3-44f84e11fdfa" />
 
-```text
-screenshots/add-food.png
-```
 
 ---
 
 ## 📋 Food List
 
-> Add screenshot here
-
-```text
-screenshots/food-list.png
-```
+<img width="1912" height="967" alt="image" src="https://github.com/user-attachments/assets/d51388c6-bbc4-41ac-b53d-4196a5ad3d46" />
 
 ---
 
